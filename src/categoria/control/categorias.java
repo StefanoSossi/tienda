@@ -4,6 +4,7 @@ import categoria.entity.categoria;
 import excepciones.entity.CategoriaFantasma;
 
 public class categorias {
+	// linea añadida
 
 	private categoria[] categorias;
 	private int cantidad;
